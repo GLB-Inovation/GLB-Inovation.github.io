@@ -2,3 +2,8 @@ baseURL = 'https://glb-inovation.github.io'
 languageCode = 'pt-br'
 title = 'GLB Inovação'
 theme = 'hugo-PaperMod'
+[params]
+  subtitle = 'Soluções inovadoras'
+  [params.contact]
+    email = 'jagra2699@gmail.com'
+    phone = '+55 82 981634591'
