@@ -7,3 +7,6 @@
 [submodule "GLB/themes/hugo-PaperMod"]
 	path = GLB/themes/hugo-PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/FixIt"]
+	path = themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
