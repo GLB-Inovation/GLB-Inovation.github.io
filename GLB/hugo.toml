@@ -1,0 +1,4 @@
+baseURL = 'https://glb-inovation.github.io'
+languageCode = 'pt-br'
+title = 'GLB Inovação'
+theme = 'hugo-PaperMod'

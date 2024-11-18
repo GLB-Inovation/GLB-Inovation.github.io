@@ -1,0 +1,9 @@
+[submodule "GLB/themes/docsy"]
+	path = GLB/themes/docsy
+	url = https://github.com/google/docsy
+[submodule "GLB/themes/Font-Awesome"]
+	path = GLB/themes/Font-Awesome
+	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "GLB/themes/hugo-PaperMod"]
+	path = GLB/themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
