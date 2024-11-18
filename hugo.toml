@@ -5,4 +5,4 @@ theme = 'FixIt'
 sectionPagesMenu = 'main'
 [params.header.title]
       # URL of the LOGO
-      logo = 'content\images\heliotrobot.jpeg'
+      logo = 'https://github.com/GLB-Inovation/GLB-Inovation.github.io/blob/main/content/images/heliotrobot.jpeg?raw=true'
